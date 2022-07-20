@@ -9,3 +9,11 @@ the Deadalus contains all his works.
 To keep the kindom safe from these strange creatures, the labyinth was made to be *completely* unescapable.
 Your end is near, but since we're here you'll want to at least become the strongest in the Deadalus, right?
 Then take your weapons and make *his* labyrinth **your** labyrinth!
+
+## Dependencies
+
+## Building, Running and Testing
+
+## Game Controls
+
+## Credits
